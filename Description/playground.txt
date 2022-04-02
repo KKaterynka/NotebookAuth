@@ -1,0 +1,280 @@
+ПЕРЕБІГ ПРОГРАМИ
+PS. Скоротила в цьому файлі меню(залишила повним лише перший раз),
+    тому що воно достатньо велике. Замість самого меню писатиме *MENU*
+_____________________________________________________________________________
+
+Please enter a command:
+
+	Enter the app
+	login      Login
+	register   Registration for new user
+	access     Send request for access for notebook
+               (add note, show notes)
+	premium    Send request for access for premium notebook
+               (add, modify and search note, show notes)
+
+	Notebook
+	notes      Show all notes
+	search     Search notes
+	add        Add note
+	modify     Modify note
+
+	Administrator
+	perm       Give permission
+               to users
+
+	quit       Quit
+
+enter a command: register
+Create new user
+
+username: andriyko
+password: iamandriyko
+User created successfully! You can restart the app and login ONLY than.
+PS: Our Database need to restart.
+
+Please enter a command:
+
+	*MENU*
+
+enter a command: quit
+Thank you for testing the auth module
+
+Please enter a command:
+
+	*MENU*
+
+enter a command: login
+username: andriyko
+password: iamandriyko
+
+Please enter a command:
+
+	*MENU*
+
+enter a command: access
+Sending request for access to administrator..
+Please enter a command:
+
+	*MENU*
+
+enter a command: quit
+Thank you for testing the auth module
+
+Please enter a command:
+
+	*MENU*
+
+enter a command: login
+username: Kateryna
+password: iamadmin123
+
+Please enter a command:
+
+	*MENU*
+
+enter a command: perm
+1. andriyko: simple access.
+Enter number of the user you want to give access to:
+1
+
+Please enter a command:
+
+	*MENU*
+
+enter a command: quit
+Thank you for testing the auth module
+
+Please enter a command:
+
+	*MENU*
+
+enter a command: login
+username: andriyko
+password: iamandriyko
+
+Please enter a command:
+	
+	*MENU*
+
+enter a command: add
+Enter a memo: hello world
+Your note has been added.
+
+Please enter a command:
+
+	*MENU*
+
+enter a command: add
+Enter a memo: i need to buy soap
+Your note has been added.
+
+Please enter a command:
+
+	*MENU*
+
+enter a command: notes
+1: 
+hello world
+2: 
+i need to buy soap
+
+Please enter a command:
+	
+	*MENU*
+
+enter a command: quit
+Thank you for testing the auth module
+
+Please enter a command:
+
+	*MENU*
+
+enter a command: register
+Create new user
+
+username: olenka
+password: nicetomeetyou
+User created successfully! You can restart the app and login ONLY than.
+PS: Our Database need to restart.
+
+Please enter a command:
+
+	*MENU*
+
+enter a command: quit
+Thank you for testing the auth module
+
+Please enter a command:
+
+	*MENU*
+
+enter a command: login
+username: olenka
+password: nicetomeetyou
+
+Please enter a command:
+
+	*MENU*
+
+enter a command: notes
+olenka cannot look at notes
+
+Please enter a command:
+
+	*MENU*
+
+enter a command: premium
+Sending request for premium access to administrator..
+
+Please enter a command:
+
+	*MENU*
+
+enter a command: quit
+Thank you for testing the auth module
+
+Please enter a command:
+
+	*MENU*
+
+enter a command: login
+username: Kateryna
+password: iamadmin123
+
+Please enter a command:
+
+	*MENU*
+
+enter a command: perm
+1. olenka: premium access.
+Enter number of the user you want to give access to:
+1
+
+Please enter a command:
+
+	*MENU*
+
+enter a command: quit
+Thank you for testing the auth module
+
+Please enter a command:
+
+	*MENU*
+
+enter a command: login
+username: olenka
+password: nicetomeetyou
+
+Please enter a command:
+
+	*MENU*
+
+enter a command: add
+Enter a memo: i love andriyko
+Your note has been added.
+
+Please enter a command:
+
+	*MENU*
+
+enter a command: add
+Enter a memo: buy present for granny
+Your note has been added.
+
+Please enter a command:
+
+	*MENU*
+
+enter a command: add
+Enter a memo: bake a cake
+Your note has been added.
+
+Please enter a command:
+
+	*MENU*
+
+enter a command: notes
+1: 
+i love andriyko
+2: 
+buy present for granny
+3: 
+bake a cake
+
+Please enter a command:
+
+	*MENU*
+
+enter a command: search
+Search for: granny
+2: 
+buy present for granny
+
+Please enter a command:
+
+	*MENU*
+
+enter a command: modify
+Enter a note id: 1
+Enter a memo: i love my dog
+Enter tags: i love my dog
+
+Please enter a command:
+
+	*MENU*
+
+enter a command: notes
+1: 
+i love my dog
+2: 
+buy present for granny
+3: 
+bake a cake
+
+Please enter a command:
+
+	*MENU*
+
+enter a command: quit
+Thank you for testing the auth module
