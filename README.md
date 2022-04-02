@@ -1,12 +1,12 @@
 # Notebook with registration
 ![](https://github.com/KateKo04/NotebookAuth/blob/main/photos/notebook.png)
 
-### Files
+## Files
 * auth.py, auth_driver.py, notebook.py, main.py
 * user.txt - "database"(has already registered two users and administrator)
 * playground.txt - how the programme runs
 
-### Register new user
+## Register new user
 
 User enters his/her name.
 
@@ -22,13 +22,13 @@ Password is being hashed.
 
 Data of administartor is written in main.py.
 
-### Login
+## Login
 
 Here we check, if user with such username exists. If no, than invokes auth.InvalidUsername.
 
 Also, if password is not correct, than invokes auth.InvalidPassword. 
 
-### Request for access(simple and premium)
+## Request for access(simple and premium)
 
 With simple access user can only add and look at notes.
 
