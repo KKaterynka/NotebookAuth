@@ -14,7 +14,9 @@ If such user already exists, invokes auth.UsernameAlreadyExists.
 
 If the password is too short(less than 6 characters), invokes auth.PasswordTooShort.
 
-User data is written to user.txt. For instance: olenka: 1e8ddb517f469e63a170c65f2343862619a956430afbf6b9b0a69b5db2386060.
+User data is written to user.txt. For instance: 
+
+olenka: 1e8ddb517f469e63a170c65f2343862619a956430afbf6b9b0a69b5db2386060.
 
 Password is being hashed.
 
