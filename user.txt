@@ -1,0 +1,4 @@
+Kateryna: 1def9251c3f3baf7bd6159a5247b4a28a4e02b4c87a73c7d5f46821ddbe838fe. Access: administrator
+
+andriyko: b367b8673df399403058fdff3b088e39dd8913dcffc2844f45ec8bb78840a67c. Access: simple user
+olenka: 1e8ddb517f469e63a170c65f2343862619a956430afbf6b9b0a69b5db2386060. Access: premium user
