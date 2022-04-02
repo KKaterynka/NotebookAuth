@@ -1,4 +1,5 @@
 # Notebook with registration
+![](https://github.com/KateKo04/NotebookAuth/blob/main/photos/notebook.png)
 
 ### Files
 * auth.py, auth_driver.py, notebook.py, main.py
